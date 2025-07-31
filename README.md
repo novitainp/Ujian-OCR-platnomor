@@ -1,8 +1,8 @@
-# 🚗 OCR Plat Nomor Kendaraan – LM Studio
+# OCR Plat Nomor Kendaraan – LM Studio
 
 Proyek ini adalah tugas akhir mata kuliah **Computer Vision (AAS)**, dengan tujuan mengenali **plat nomor kendaraan** dari gambar menggunakan **Visual Language Model (VLM)** lewat bantuan **LM Studio**.
 
-## 🛠️ Tools & Teknologi yang Dipakai
+## Tools & Teknologi yang Dipakai
 
 - Python 3.11
 - LM Studio (`llava-llama-3-8b-v1_1`)
@@ -10,7 +10,7 @@ Proyek ini adalah tugas akhir mata kuliah **Computer Vision (AAS)**, dengan tuju
 - Format input: Gambar JPEG dari plat nomor kendaraan
 - Output: File `hasil_proses.csv` yang berisi hasil prediksi & nilai evaluasi CER
 
-## ▶️ Cara Menjalankan Program
+## Cara Menjalankan Program
 
 1. Jalankan **LM Studio**, pastikan model multimodal (`llava-llama-3-8b-v1_1`) sudah aktif.
 2. Pastikan **API-nya aktif** di alamat: `http://localhost:1234`
